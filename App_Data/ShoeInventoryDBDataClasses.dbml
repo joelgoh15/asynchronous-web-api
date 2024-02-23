@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ShoeInventoryDB" Class="ShoeInventoryDBDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.ShoeInventoryTable" Member="ShoeInventoryTables">
+    <Type Name="ShoeInventoryTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShoeName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ShoeDescription" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ShoePrice" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ShoeSize" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
