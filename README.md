@@ -12,13 +12,15 @@ Asynchronous Web-API.
 <p>
   2. Technology stack and approach used:
     <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-        <li>ASP.Net</li>
-        <li>Asynchronous Web-API(RESTful)</li>
-        <li>C#</li>
-        <li>LINQ</li>
-        <li>MSSQL Database</li>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>ASP.Net</li>
+            <li>Asynchronous Web-API(RESTful)</li>
+            <li>C#</li>
+            <li>LINQ</li>
+            <li>MSSQL Database</li>
+        </ul>
     </ul>
 </p>
