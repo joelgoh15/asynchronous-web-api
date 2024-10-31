@@ -1,7 +1,6 @@
 # Asynchronous Web-API
 
 ## Introduction
-A software development portfolio by Joel Goh  C.H. <br/> <br/>
 Asynchronous Web-API.
 
 ## Technical Details
