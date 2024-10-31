@@ -1,6 +1,4 @@
 # Asynchronous Web-API
-
-## Introduction
 Asynchronous Web-API.
 
 ## Technical Details
