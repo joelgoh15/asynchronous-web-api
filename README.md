@@ -1,7 +1,5 @@
 # Asynchronous Web-API
-<p>
-1. Asynchronous Web-API.
-</p>
+Asynchronous Web-API.
 
 ## Technical Details
 <p>
