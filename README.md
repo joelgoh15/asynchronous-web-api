@@ -3,7 +3,7 @@
 
 ## Technical Details
 <p>
-    1. A portfolio project with an emphasis on ASP.Net asynchronous Web-API for C.R.U.D operations.
+1. A portfolio project with an emphasis on ASP.Net asynchronous Web-API for C.R.U.D operations.
 </p>
 
 <p>
