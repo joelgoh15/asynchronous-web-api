@@ -1,13 +1,10 @@
-# Asynchronous Web-API
+## Introduction
 Asynchronous Web-API.
 
 ## Technical Details
-<p>
-1. A portfolio project with an emphasis on ASP.Net asynchronous Web-API for C.R.U.D operations.
-</p>
+A project with an emphasis on ASP.Net asynchronous Web-API for C.R.U.D operations.
 
-<p>
-  2. Technology stack and approach used:
+Technology stack and approach used:
     <ul>
         <ul>
             <li>HTML5</li>
@@ -20,4 +17,3 @@ Asynchronous Web-API.
             <li>MSSQL Database</li>
         </ul>
     </ul>
-</p>
